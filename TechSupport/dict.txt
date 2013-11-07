@@ -1,0 +1,30 @@
+what|price|product
+II'S OVER 9000!
+longcat
+Longcat is long.
+longcat
+Longcat is looooooooong.
+how|power|off
+Unplug the plug.
+how|power|off
+Press the dangerous-looking red button.
+how|shut|down
+Press the dangerous-looking red button.
+how|power|on
+Press the green button.
+i|error
+You're able to fix it. I trust you.
+what|fox|say
+Ring-ding-ding-ding-dingeringeding!
+what|fox|say
+Wa-pa-pa-pa-pa-pa-pow!
+what|fox|say
+Hatee-hatee-hatee-ho!
+what|fox|say
+Joff-tchoff-tchoffo-tchoffo-tchoff!
+follow|you
+You can follow me on tumblr.
+hello
+Hello.
+hello
+=w=

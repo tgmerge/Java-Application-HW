@@ -1,0 +1,10 @@
+student,course,mark
+sA,cA,4
+sA,cB,6
+"sC,C",cA,5
+"""sd""",cB,4
+sA,"""cC"" and me",5
+name,cA,1
+sA,name,2
+sA,CCC,5
+sA,cThis,100

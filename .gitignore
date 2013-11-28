@@ -1,5 +1,7 @@
 # user defined
-.pdf
+*.pdf
+*.doc
+*.docx
 
 #################
 ## Eclipse

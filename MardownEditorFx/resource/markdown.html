@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+<!-- simple markdown editor by tgmerge -->
+<!-- using showdown.js -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="tgmerge's markdown test">
+  <title>tgmerge's markdown test 'w'</title>
+  <script type="text/javascript" src="showdown.js"></script>
+  <link type="text/css" rel="stylesheet" href="markdown-theme.css" />
+</head>
+
+<body>
+    <div id="main">
+        <div class="left">
+            <textarea id="input" onkeyup="textChange();">
+Markdown Editor Example
+================================
+
+## And this is level 2 header.
+
+    <!--Some code here-->
+    <script type=text/css>
+    function what() {
+        document.write('longcat is long');
+    }
+    </script>
+
+## Picture
+
+![title](http://25.media.tumblr.com/avatar_ec0b2bd5bbd7_64.png)  
+
+Some **STRONG** and *em...what* text
+
+Keyboard shortcut is `CTRL-D`.
+
+#### ULs
+
+ * List
+ * More list
+ * Another list item
+
+#### OLs
+
+1. Or... ordered list?
+2. More ordered list?
+3. One more?</textarea>
+        </div>
+        <div class="right">
+            RIGHT
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        var converter = new Showdown.converter();
+        var input = document.querySelector("textarea#input");
+        var output = document.querySelector("div.right");
+        function textChange() {
+            var html = converter.makeHtml(input.value);
+            output.innerHTML = html;
+        }
+        textChange();
+    </script>
+</body>
+</html>

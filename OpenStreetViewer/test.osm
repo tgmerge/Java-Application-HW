@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.1 (16412 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="30.3034700" minlon="120.0780300" maxlat="30.3045300" maxlon="120.0792500"/>
+ <node id="1733882574" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:23Z" user="Xhacker Liu" uid="666048" lat="30.3044453" lon="120.0781530"/>
+ <node id="1733882575" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:23Z" user="Xhacker Liu" uid="666048" lat="30.3044453" lon="120.0791132"/>
+ <node id="1733882576" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:23Z" user="Xhacker Liu" uid="666048" lat="30.3035422" lon="120.0781691"/>
+ <node id="1733882577" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:23Z" user="Xhacker Liu" uid="666048" lat="30.3042138" lon="120.0781530"/>
+ <node id="1733882580" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:24Z" user="Xhacker Liu" uid="666048" lat="30.3035283" lon="120.0790864"/>
+ <node id="1733882581" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:24Z" user="Xhacker Liu" uid="666048" lat="30.3042045" lon="120.0788986"/>
+ <node id="1733882582" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:24Z" user="Xhacker Liu" uid="666048" lat="30.3038578" lon="120.0789067"/>
+ <node id="1733882583" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:24Z" user="Xhacker Liu" uid="666048" lat="30.3038618" lon="120.0781664"/>
+ <way id="161416407" visible="true" version="1" changeset="11439188" timestamp="2012-04-28T09:12:24Z" user="Xhacker Liu" uid="666048">
+  <nd ref="1733882576"/>
+  <nd ref="1733882580"/>
+  <nd ref="1733882575"/>
+  <nd ref="1733882574"/>
+  <nd ref="1733882577"/>
+  <nd ref="1733882581"/>
+  <nd ref="1733882582"/>
+  <nd ref="1733882583"/>
+  <nd ref="1733882576"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="安中大楼"/>
+ </way>
+</osm>
